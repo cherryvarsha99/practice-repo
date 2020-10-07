@@ -4,6 +4,6 @@
 ## Sample
 
 #####  Sample1
-<img src="vsv.jpg" alt="drawing" width="150" ; />
+<img src="vsv.jpg" alt="drawing" width="150" style="border-radius:50%"  />
 
   
