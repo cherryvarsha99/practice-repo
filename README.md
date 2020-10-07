@@ -4,4 +4,6 @@
 ## Sample
 
 #####  Sample1
-<img src="vsv.jpg" alt="drawing" width="200"/>
+<img src="vsv.jpg" alt="drawing" width="150" ; />
+
+  
